@@ -11,7 +11,7 @@ function App() {
       </div>
       <div className="items-center flex justify-center flex-col gap-1 ">
         <h1 className=" text-2xl text-center sm:text-3xl">Promise Chibuokem</h1>
-        <p className="font-light text-l text-blue-300 sm:text-2xl md:text-2xl">Full Stack Developer</p>
+        <p className="font-light font-sans text-l text-blue-300 sm:text-2xl md:text-2xl">Softare Engineer</p>
         <a
           href="https://github.com/prochris2277"
           className=" bg-gray-700 rounded-lg md:text-[1.1em] xl:text-[1.4em] py-2 px-6   my-2.5 text-center hover:bg-blue-500 hover:scale-105 transition-all duration-500 "
