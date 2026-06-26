@@ -1,7 +1,7 @@
 import AboutSection from "./components/About";
-import ProjectsSection from "./components/Projects";
+import ProjectsSection from "./components/projects";
 import SkillsSection from "./components/Skills";
-import "./App.css";
+ 
 
 function App() {
   return (
